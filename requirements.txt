@@ -1,0 +1,15 @@
+streamlit 
+nba-api 
+plotly 
+pandas 
+numpy
+
+# Core ML dependencies
+torch>=1.9.0
+transformers>=4.15.0
+
+# Optional but recommended
+accelerate>=0.10.0
+
+scikit-learn
+seaborn
